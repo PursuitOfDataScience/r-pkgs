@@ -114,7 +114,7 @@ There are good reasons to make backward incompatible changes - if you made a des
     }
     ```
 
-  * Significant changes to an existing function requires planning, including 
+  * Significant changes to an existing function require planning, including 
     making gradual changes over multiple versions. Try and develop a sequence
     of transformations where each change can be accompanied by an informative
     error message.
